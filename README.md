@@ -1,6 +1,6 @@
 ### Hi and thanks so much for visiting my GitHub Repository👋
 
-My Repository is currently under construction. I am trying to upload more contents.
+*My Repository is currently under construction. I am trying to upload more contents.*
 
 - 🔭 I’m currently working on renovating this GitHub Repository
 - 🌱 I’m currently learning Spectral Graph Theory, Topological Data Analysis, Machine Learning in Productions, Generative Models 
