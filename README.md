@@ -1,8 +1,5 @@
 ### Hi and thanks so much for visiting my GitHub Repository👋
 
-<!--
-**lethanhnam1203/lethanhnam1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My Repository is currently under construction 
 
 - 🔭 I’m currently working on ...
@@ -14,3 +11,8 @@ My Repository is currently under construction
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+**lethanhnam1203/lethanhnam1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
