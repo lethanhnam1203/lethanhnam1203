@@ -6,7 +6,7 @@ My Repository is currently under construction. I am trying to upload more conten
 - 🌱 I’m currently learning Spectral Graph Theory, Topological Data Analysis, Machine Learning in Productions, Generative Models 
 - 💬 Ask me about Linear Algebra, Probability and Statistics, Information Theory, Machine Learning and (Representation) Deep Learnning, Causal Interferences
 - 📫 How to reach me: lethanhnam1203@gmail.com
-- ⚡ Fun fact: I want to spread the knowledge of AI to others, esp. those from disadvatanged backgroundss. I was "rescued" and now a part of ReDI School of Digtal Integration, whose mission is to use Tech to squash socio-economic barriers.
+- ⚡ Fun fact: I was "rescued" and now a part of ReDI School of Digtal Integration, whose mission is to use Tech to squash socio-economic barriers.
 -->
 
 <!--
