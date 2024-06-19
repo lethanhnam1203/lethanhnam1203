@@ -1,6 +1,8 @@
-### Hi and thanks so much for visiting my GitHub Repository👋
+### Hi and thanks for visiting my GitHub 👋
 
-*My Repository is currently under construction. I am trying to upload more contents. Sorry for the inconveniences. It is due to time constraints rather than laziness.*
+In 2023, I graduated with a Master's degree in Artificial Intelligence & Data Science from Heinrich Heine University Düsseldorf. At the moment, I work as a Scientific Software Developer at the Institute of IT Security in Lübeck. I am developing software solutions for the [Anomed](https://anomed.de/) consortium.
+
+*My Repository is currently under construction. I am trying to upload more contents.*
 
 - 🔭  I’m currently working on renovating this GitHub Repository
 - 🌱  I’m currently learning Spectral Graph Theory, Topological Data Analysis, Machine Learning in Productions, Generative Models 
